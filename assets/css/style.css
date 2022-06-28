@@ -81,3 +81,6 @@ li, a {
   width: 92px;
 }
 
+.active {
+  font-weight: 900;
+}
